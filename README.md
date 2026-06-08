@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="naruto sage mode"/>
+<img align="right" src="https://media3.giphy.com/media/oamKpXAuni46KMJ7JN/giphy.gif" width="220" alt="Naruto Sage Mode"/>
 
 I'm a Systems Engineering student and software developer passionate about building real-world solutions. I love exploring the intersections of **software architecture**, **artificial intelligence**, and **process automation**.
 
@@ -20,49 +20,37 @@ I'm a Systems Engineering student and software developer passionate about buildi
 
 <br clear="right"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
 
 ## 🛠️ Technologies & Tools — My Stack
 
 <div align="center">
 
 ### ⚙️ Backend Development
-
 <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs&theme=dark" />
 
 ### 🎨 Frontend Development
-
 <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 
 ### 🗄️ Databases & Storage
-
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
-### 🚀 Frameworks
-
+### 🚀 Frameworks & Real-Time
 <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+<img src="https://skillicons.dev/icons?i=express&theme=dark" />
 
 ### ☁️ DevOps & Cloud Tools
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions&theme=dark" />
-<img src="https://skillicons.dev/icons?i=vercel,railway&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,vercel,railway&theme=dark" />
 
 ### 🤖 AI & Data
-
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
-![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
 
 ### 🧰 Other Tools
-
-<img src="https://skillicons.dev/icons?i=postman,figma,swagger,jira&theme=dark" />
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+<img src="https://skillicons.dev/icons?i=postman,figma,swagger,jira,rabbitmq,sonarqube&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
 
 ## 💡 Skills
 
@@ -97,7 +85,7 @@ I'm a Systems Engineering student and software developer passionate about buildi
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -197,7 +185,7 @@ Built an integrated solution to digitize and automate academic schedule manageme
 **Technologies:**
 `Java` · `Spring Boot` · `React` · `MongoDB` · `Docker` · `GitHub Actions` · `Swagger`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -212,7 +200,7 @@ Built an integrated solution to digitize and automate academic schedule manageme
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
 
 ## 📬 Let's Connect
 
