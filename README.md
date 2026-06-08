@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="coding gif"/>
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="230" alt="coding gif"/>
 
 I'm a Systems Engineering student and software developer passionate about building real-world solutions. I love exploring the intersections of **software architecture**, **artificial intelligence**, and **process automation**.
 
@@ -22,7 +22,7 @@ I'm a Systems Engineering student and software developer passionate about buildi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3" width="100%"/>
 
-## 🛠️ Technologies & Tools — My Stack
+## 🛠️ Technologies & Tools · My Stack
 
 <div align="center">
 
@@ -30,29 +30,43 @@ I'm a Systems Engineering student and software developer passionate about buildi
 
 <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs&theme=dark" />
 
+<br/>
+
 ### 🎨 Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
+
+<br/>
 
 ### 🗄️ Databases & Storage
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
+<br/>
+
 ### 🚀 Frameworks & Real-Time
 
 <img src="https://skillicons.dev/icons?i=spring,express&theme=dark" />
+
+<br/>
 
 ### ☁️ DevOps & Cloud Tools
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,vercel,railway&theme=dark" />
 
+<br/>
+
 ### 🤖 AI & Data
 
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
 
+<br/>
+
 ### 🧰 Other Tools
 
 <img src="https://skillicons.dev/icons?i=postman,figma,rabbitmq&theme=dark" />
+
+<br/>
 
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
@@ -101,7 +115,7 @@ I'm a Systems Engineering student and software developer passionate about buildi
 
 ---
 
-### 🥊 Fight Club Online — Real-Time Multiplayer Fighting Platform
+### 🥊 Fight Club Online · Real-Time Multiplayer Fighting Platform
 
 **Description:**
 Fight Club Online is a real-time multiplayer gaming platform powered by a microservices architecture, featuring AI-driven voice chat moderation, matchmaking, and social lobby management.
@@ -126,7 +140,7 @@ Designed a microservices-based system using Clean Architecture to ensure scalabi
 
 ---
 
-### 🩺 SRPHS — Intelligent Metabolic Risk Prevention System
+### 🩺 SRPHS · Intelligent Metabolic Risk Prevention System
 
 **Description:**
 SRPHS is a preventive health platform powered by Artificial Intelligence that analyzes lifestyle habits to predict metabolic risk and generate personalized health recommendations.
@@ -151,7 +165,7 @@ Built an ML-powered system using Random Forest models to predict risk, SHAP for 
 
 ---
 
-### 🚗 RideECI — University Ride-Sharing Platform
+### 🚗 RideECI · University Ride-Sharing Platform
 
 **Description:**
 RideECI is a platform designed to improve mobility for university students and staff by enabling secure ride coordination within the university community.
@@ -175,7 +189,7 @@ Developed a ride-sharing platform integrating event-driven microservices, asynch
 
 ---
 
-### 📅 SIRHA — Academic Schedule Reassignment System
+### 📅 SIRHA · Academic Schedule Reassignment System
 
 **Description:**
 SIRHA is an automated platform for managing and reassigning academic schedules, reducing scheduling conflicts and streamlining critical administrative processes.
@@ -237,5 +251,5 @@ Built an integrated solution to digitize and automate academic schedule manageme
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Robinson677&color=1f6feb&style=flat-square&label=Profile+Views&abbreviated=true" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Robinson677&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
