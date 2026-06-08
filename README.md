@@ -1,13 +1,14 @@
-<h1 align="center">Hey there! 👋 I'm Robinson Steven Nuñez Portela</h1>
+<div align="center">
 
-<p align="center">
-  <b>Systems Engineering Student · Full-Stack Developer · AI Explorer</b><br/>
-  <i>Escuela Colombiana de Ingeniería Julio Garavito · Bogotá, Colombia 🇨🇴</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Robinson%20Steven%20Nuñez%20Portela&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Systems%20Engineering%20Student%20·%20Full-Stack%20Developer%20·%20AI%20Explorer&descSize=16&descAlignY=62&descColor=8b949e" />
+
+</div>
 
 ---
 
 ## 🧠 About Me
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220" alt="naruto sage mode"/>
 
 I'm a Systems Engineering student and software developer passionate about building real-world solutions. I love exploring the intersections of **software architecture**, **artificial intelligence**, and **process automation**.
 
@@ -17,59 +18,51 @@ I'm a Systems Engineering student and software developer passionate about buildi
 - 🌱 Continuously learning and growing through challenging projects
 - ♟️ Chess player & music enthusiast in my free time
 
----
+<br clear="right"/>
 
-## 🎬 A Glimpse Into My World
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding animation" />
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
 ## 🛠️ Technologies & Tools — My Stack
 
+<div align="center">
+
 ### ⚙️ Backend Development
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=java,python,ts,nodejs&theme=dark" />
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 
 ### 🗄️ Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
 ### 🚀 Frameworks
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+<img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 
 ### ☁️ DevOps & Cloud Tools
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vercel,railway&theme=dark" />
 
 ### 🤖 AI & Data
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" />
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🧰 Other Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=postman,figma,swagger,jira&theme=dark" />
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
 ## 💡 Skills
 
@@ -104,7 +97,7 @@ I'm a Systems Engineering student and software developer passionate about buildi
   </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -204,43 +197,47 @@ Built an integrated solution to digitize and automate academic schedule manageme
 **Technologies:**
 `Java` · `Spring Boot` · `React` · `MongoDB` · `Docker` · `GitHub Actions` · `Swagger`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robinson677&show_icons=true&theme=tokyonight&hide_border=true" alt="Robinson's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson677&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robinson677&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="96%"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson677&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinson677&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="49%" alt="Top Languages"/>
 
----
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Robinson677&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:58a6ff&height=3&section=header" width="100%"/>
 
 ## 📬 Let's Connect
 
-<p align="center">
-  <a href="mailto:robinsonsteven232@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/robinson-nuñez-p">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Robinson677">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  ✨ <i>Open to collaboration, professional opportunities, and challenging projects</i> ✨
-</p>
+<a href="mailto:robinsonsteven232@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/robinson-nu%C3%B1ez-p">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Robinson677">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
----
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Robinson677&color=blue&style=flat-square" alt="Profile views"/>
-</p>
+✨ *Open to collaboration, professional opportunities, and challenging projects* ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Robinson677&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</div>
