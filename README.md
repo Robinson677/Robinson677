@@ -68,9 +68,9 @@ I'm a Systems Engineering student and software developer passionate about buildi
 
 <br/>
 
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+<img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger"/>&nbsp;&nbsp;
+<img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira"/>&nbsp;&nbsp;
+<img height="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube"/>
 
 </div>
 
@@ -215,10 +215,9 @@ Built an integrated solution to digitize and automate academic schedule manageme
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson677&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robinson677&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robinson677&theme=tokyonight&hide_border=true&border_radius=10" width="70%" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robinson677&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph"/>
 
@@ -229,6 +228,10 @@ Built an integrated solution to digitize and automate academic schedule manageme
 ## 📬 Let's Connect
 
 <div align="center">
+
+<img src="https://media1.giphy.com/media/tVrNSNEWvPwFUUbPQ6/giphy.gif" width="380" alt="connect gif"/>
+
+<br/><br/>
 
 <a href="mailto:robinsonsteven232@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
