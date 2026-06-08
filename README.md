@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Robinson%20Steven%20Nuñez%20Portela&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Systems%20Engineering%20Student%20·%20Full-Stack%20Developer%20·%20AI%20Explorer&descSize=16&descAlignY=62&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Robinson%20Steven%20Nu%C3%B1ez%20Portela&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Systems%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20AI%20Explorer&descSize=16&descAlignY=62&descColor=8b949e" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://media3.giphy.com/media/oamKpXAuni46KMJ7JN/giphy.gif" width="220" alt="Naruto Sage Mode"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="coding gif"/>
 
 I'm a Systems Engineering student and software developer passionate about building real-world solutions. I love exploring the intersections of **software architecture**, **artificial intelligence**, and **process automation**.
 
@@ -27,26 +27,36 @@ I'm a Systems Engineering student and software developer passionate about buildi
 <div align="center">
 
 ### ⚙️ Backend Development
+
 <img src="https://skillicons.dev/icons?i=java,python,ts,nodejs&theme=dark" />
 
 ### 🎨 Frontend Development
+
 <img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" />
 
 ### 🗄️ Databases & Storage
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" />
 
 ### 🚀 Frameworks & Real-Time
-<img src="https://skillicons.dev/icons?i=spring&theme=dark" />
-<img src="https://skillicons.dev/icons?i=express&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=spring,express&theme=dark" />
 
 ### ☁️ DevOps & Cloud Tools
+
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,githubactions,vercel,railway&theme=dark" />
 
 ### 🤖 AI & Data
+
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" />
 
 ### 🧰 Other Tools
-<img src="https://skillicons.dev/icons?i=postman,figma,swagger,jira,rabbitmq,sonarqube&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=postman,figma,rabbitmq&theme=dark" />
+
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 
 </div>
 
@@ -227,5 +237,5 @@ Built an integrated solution to digitize and automate academic schedule manageme
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Robinson677&color=1f6feb&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Robinson677&color=1f6feb&style=flat-square&label=Profile+Views&abbreviated=true" alt="Profile views"/>
 </div>
